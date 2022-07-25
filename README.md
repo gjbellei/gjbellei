@@ -1,4 +1,5 @@
--  Hi, I’m Gabriel Bellei! 👋
+-  Hi, I’m Gabriel Bellei! 👍
+    I am an Industrial Engineer and I'm getting into Data Analytics
 
 - 🌱 I’m currently learning Data Analysis with Pandas and Python
 
