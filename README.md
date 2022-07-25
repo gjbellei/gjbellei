@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gjbellei
-- 👀 I’m interested in Data Science and Machine Learning
+-  Hi, I’m Gabriel Bellei! 👋
+-
 - 🌱 I’m currently learning Data Analysis with Pandas and Python
-- 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me ...
+
+- 📫 How to reach me
 
 <!---
 gjbellei/gjbellei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
