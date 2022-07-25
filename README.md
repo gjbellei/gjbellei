@@ -1,5 +1,5 @@
 -  Hi, I’m Gabriel Bellei! 👋
--
+
 - 🌱 I’m currently learning Data Analysis with Pandas and Python
 
 - 📫 How to reach me
