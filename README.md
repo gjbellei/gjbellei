@@ -1,7 +1,14 @@
--  Hi, I’m Gabriel Bellei!
-    I am an Industrial Engineer getting into Data Analytics 📊
+<h1 align="center">
+Hi there, I'm Gabriel J. Bellei! 👋
+</h1>
 
-- 💡I’m currently learning Data Analysis with Pandas and Python
+I'm an Industrial Engineer ⚙️ seeking for a change in my career. Currently, I'm improving my data analysis skills 📊!
+
+### 🌱 I’m currently learning:
+
+- Pandas and Python
+- Power BI
+- SQL
 
 - 📫 How to reach me:
 
@@ -16,8 +23,3 @@
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:lucas.diniz@engenharia.ufjf.br" />
 
 </a>
-
-<!---
-gjbellei/gjbellei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
