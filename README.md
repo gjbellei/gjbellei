@@ -10,7 +10,7 @@ I'm an Industrial Engineer ⚙️ seeking for a change in my career. Currently, 
 - Power BI
 - SQL
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/gabrieljabourbellei" alt="linkedin" target="_blank">
 
