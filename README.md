@@ -2,8 +2,8 @@
 Hi there, I'm Gabriel J. Bellei! 👋
 </h1>
 
-I'm an Data-Driven Production Engineer ⚙️
-Currently, I'm improving my technical skills as a Data Analytics student at Toronto School of Management 📊
+I'm an Data-Driven Production Engineer ⚙️.
+Currently, I'm enhancing my technical skills as a Data Analytics student at Toronto School of Management 📊
 
 ### 🌱 I’m currently learning:
 
